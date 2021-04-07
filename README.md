@@ -1,10 +1,9 @@
-# Boğaziçi University CMPE540 class Project 1
+# Boğaziçi University - Principles of Artificial Intelligence CMPE540 class Project 1
 ### BFS (Breadth First Search), DFS (Depth First Search), UCS (Uniform Cost Search), A STAR, A* C++ implementations
 
 Original framework implementation in C++ is written by Emre Ugur.
 
 He adapted the project from CS188 Berkeley course material.
-Tree/Graph Search algorithms implemented in C++ for Berkeley's Principles of Artificial Intelligence course.
 
 BFS, DFS, UCS and A* Algorithms are implemented in C++ for path finding, collecting foods and visiting corners in Pacman-like Maze layouts.
 
